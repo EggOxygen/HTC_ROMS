@@ -12,4 +12,4 @@ By EggOxygen :)
 
 ## 更新日志
 2018-02-06
-+ Build1.0
++ HTC_ROMS_Build1.0
