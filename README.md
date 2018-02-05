@@ -1,6 +1,6 @@
-### HTC_ROMS Build1.0
+# HTC_ROMS Build1.0
 
-## 这是一个暑假的自我学习作业
+## 这是一个寒假的自我学习作业
 
 主要功能是通过解析Json来获取HTC官方ROM
 
