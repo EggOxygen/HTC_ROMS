@@ -1,4 +1,4 @@
-# HTC_ROMS Build1.0
+# HTC_ROMS Build1.1
 
 ## 这是一个寒假的自我学习作业
 
@@ -11,5 +11,10 @@
 By EggOxygen :)
 
 ## 更新日志
+2018-02-07
++ HTC_ROMS_Build1.1
+	+ 将DLL和EXE打包在一起 
+	+ 增加Filter功能 过滤数据
+
 2018-02-06
 + HTC_ROMS_Build1.0
