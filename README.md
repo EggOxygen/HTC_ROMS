@@ -24,5 +24,8 @@ By EggOxygen :)
 2018-02-06
 + HTC_ROMS_Build1.0
 
-### TODO
+## TODO
 + 实现"大概预览"的功能
+
+## Screenshot
+![PIC](https://server.eggoxygen.top/pic.png)
